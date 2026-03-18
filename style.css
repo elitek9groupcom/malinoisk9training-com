@@ -464,9 +464,9 @@ button {
 .hero-bg-overlay {
   position: absolute;
   inset: 0;
-  background:
+  /* background:
     radial-gradient(ellipse at 70% 50%, rgba(30, 20, 10, 0.5) 0%, transparent 65%),
-    linear-gradient(135deg, rgba(13, 13, 13, 0.95) 0%, rgba(20, 18, 14, 0.6) 50%, rgba(13, 13, 13, 0.9) 100%);
+    linear-gradient(135deg, rgba(13, 13, 13, 0.95) 0%, rgba(20, 18, 14, 0.6) 50%, rgba(13, 13, 13, 0.9) 100%); */
   z-index: 1;
 }
 
